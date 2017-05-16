@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pico Y Placa</string>
+
+    <string name="dummy_button">Digite su placa</string>
+    <string name="dummy_content">Bienvenido</string>
+    <string name="su_placa_termina_en">Mi placa termina en: </string>
+</resources>
